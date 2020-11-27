@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<style>
+	
+	</style>
+	<script>
+	
+	</script>
+	
+	<body>
+	
+	<div id="nume">
+		<h2 > Duca Matei-Alexandru </h2>
+	</div>
+	
+	<h3 class="e-mail">ducamatei75@gmail.com</h3>
+	
+	<div class="structura">
+	
